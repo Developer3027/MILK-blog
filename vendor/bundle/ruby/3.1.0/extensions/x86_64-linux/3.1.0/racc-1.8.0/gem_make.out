@@ -1,0 +1,18 @@
+current directory: /home/masonroberts/projects/MILK-blog/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+/home/masonroberts/.rbenv/versions/3.1.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /home/masonroberts/projects/MILK-blog/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240618-361266-pr0xyq sitelibdir\=./.gem.20240618-361266-pr0xyq clean
+
+current directory: /home/masonroberts/projects/MILK-blog/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240618-361266-pr0xyq sitelibdir\=./.gem.20240618-361266-pr0xyq
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/masonroberts/projects/MILK-blog/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240618-361266-pr0xyq sitelibdir\=./.gem.20240618-361266-pr0xyq install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20240618-361266-pr0xyq/racc
+
+current directory: /home/masonroberts/projects/MILK-blog/vendor/bundle/ruby/3.1.0/gems/racc-1.8.0/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20240618-361266-pr0xyq sitelibdir\=./.gem.20240618-361266-pr0xyq clean
